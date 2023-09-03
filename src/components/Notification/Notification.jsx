@@ -1,3 +1,4 @@
+import React from "react"
 import {NotificationStyled} from './Notification.styled';
 import PropTypes from "prop-types";
 
